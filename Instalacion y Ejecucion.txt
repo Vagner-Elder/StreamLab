@@ -1,0 +1,4 @@
+Para poder abrir el Proyecto:
+- Iniciar Laragon
+- Desde la terminal ir a la ruta del archivo
+- Comando "php artisan serve" para iniciar el proyecto
